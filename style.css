@@ -17,13 +17,15 @@ header {
 
 .chamada {
     background: rgb(39, 85, 122);
-    padding: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
     display: flex;
     justify-content: center;
 }
 
 .chamada-texto {
     margin-right: 5%;
+    padding: 0 3em;
 }
 
 h1{
