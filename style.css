@@ -40,6 +40,7 @@ p {
     display: flex;
     overflow-x: auto;
     gap: 5px;
+    padding: 0 3em;
 }
 
 .categoria {
